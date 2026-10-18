@@ -1,0 +1,6 @@
+python/.venv/
+rust/target/
+qwen2.5-1.5b/
+results/
+results_run*/
+__pycache__/
